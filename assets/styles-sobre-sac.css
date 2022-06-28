@@ -2,6 +2,9 @@ body {
     background-image: linear-gradient(to bottom right, #3F3CA6,  #6B187A);
     font-family:'Montserrat','sans-serif';
 }
+.margin-pesquisar{
+    margin-top: 335px;
+}
 
 .margin-container {
     color: #ffff;
