@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(to bottom right, #13111b,#3d0c46,#09080D);
+    font-family:'Montserrat','sans-serif';
+}
+
+.carousel {
+    box-shadow: 16px 16px 16px #09080D;
+}
+
+.margin-container {
+    margin-top: 700px;
+}
+
+.margin-pesquisar {
+    
+    margin-top:290px;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    height: 90px;
+}
+
+.card {
+    background: #b2bbce;
+}
+
+
+.offcanvas-body {
+    background-size: cover;
+    background-position: center;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 600,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.margin-container-1 {
+    margin-top: 10px;
+}
+
+
+

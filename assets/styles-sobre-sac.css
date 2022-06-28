@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to bottom right, #3F3CA6,  #6B187A);
+    font-family:'Montserrat','sans-serif';
+}
+
+.margin-container {
+    color: #ffff;
+    margin-top: 120px;
+}
+
+.card {
+    background: #b2bbce;
+}
+.card{
+    box-sizing: border-box;
+}
+
+.navbar-brand {font-size: 25px;
+    height: 90px;
+}
+
+.offcanvas-body {
+    background-size: cover;
+    background-position: center;
+}
+
+.planer1 {
+    height: 280px;
+    width: 280px;
+}
+
+
